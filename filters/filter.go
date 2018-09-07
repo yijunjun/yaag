@@ -3,9 +3,9 @@ package filters
 import (
 	"encoding/json"
 	"encoding/xml"
-	"github.com/betacraft/yaag/middleware"
-	"github.com/betacraft/yaag/yaag"
-	"github.com/betacraft/yaag/yaag/models"
+	"github.com/yijunjun/yaag/middleware"
+	"github.com/yijunjun/yaag/yaag"
+	"github.com/yijunjun/yaag/yaag/models"
 	"github.com/revel/revel"
 	"log"
 	"net/http/httptest"
